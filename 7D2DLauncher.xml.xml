@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Sphereii-mental" Logo="" Description="Highly Experimental SDX Builds">
+		<Server Name="War Of the Walkers SDX" Logo="">
+			<Description>War of the Walkers SDX Version
+			
+			A highly experimental version of War of the Walkers (Release September 23rd, 2017), combined tastefully with SDX Mods.
+			
+Enhancements include:
+	-> Bigger Back Pack ( 42 Slot )
+	-> Crafting Lag Fixes
+	-> Expanded Minibike Storage w/ built-in Combine Workstation
+	-> Guppycur's Blood Moon Trickle Fix - Get Zombies all Night long
+	-> KatanaSample - Every apocalypse needs a KatanaSample
+	-> No Ammo Mod - Unload your weapons without disassembling
+	-> Romero Mode - Head shots matter; aim well
+	-> Zombie Transmogrifier 
+		- Zombies have random walk types
+		- Zombies have random speed
+		- Zombies have a small chance of running in the dark
+		
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+		
+			<Version>alpha16.3</Version>
+			<RSS></RSS>
+			<ReleaseNotes></ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/7D2DSDX/WarOfTheWalkersSDX/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
