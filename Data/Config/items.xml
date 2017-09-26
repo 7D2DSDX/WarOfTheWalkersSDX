@@ -446,8 +446,7 @@
 			<property name="Sound_reload" value="pistol_reload" />
 			<property name="Particles_muzzle_fire" value="nozzleflash" />
 			<property name="Particles_muzzle_smoke" value="nozzlesmoke" />
-			<property name="DamageBonus.head" value="10" />
-			<property name="DamageBonus.body" value=".1" />
+			<property name="DamageBonus.head" value="6" />
 			<property name="DamageBonus.wood" value="3" />
 			<property name="DamageBonus.earth" value="0.4" />
 			<property name="DamageBonus.glass" value="1" />
@@ -14966,13 +14965,7 @@
 		<property name="EconomicValue" value="2000" />
 		<property name="CraftingSkillGroup" value="craftSkillTools" />
 	</item>
-	<!-- New item will be Katana -->
-	<item id="1928" name="katanamichonne">
-		<!-- Extend it from the machete, but add the custom mesh -->
-		<property name="Extends" value="machete" />
-		<property name="Meshfile" value="#michonnekatana?katana" />
-	</item>
-	<item id="1929" name="NoAmmo">
+	<item id="1928" name="NoAmmo">
 		<property name="CreativeMode" value="None" />
 		<property name="Meshfile" value="Items/Misc/sackPrefab" />
 		<property name="CustomIcon" value="Unload" />
